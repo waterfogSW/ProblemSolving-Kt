@@ -1,6 +1,6 @@
 package programmers.string
 
-class Solution_70129 {
+class JadenCase_문자열_만들기 {
     fun solution(s: String): IntArray {
         var loopCount = 0
         var removedZero = 0
