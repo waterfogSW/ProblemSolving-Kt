@@ -1,4 +1,4 @@
-package programmers
+package programmers.string
 
 class Solution_70129 {
     fun solution(s: String): IntArray {
