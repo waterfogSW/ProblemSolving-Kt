@@ -1,6 +1,0 @@
-class Solution {
-}
-
-
-fun main() {
-}
