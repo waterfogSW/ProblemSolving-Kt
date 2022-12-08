@@ -2,3 +2,4 @@
 /.gradle/
 /build/
 src/main/kotlin/Solution.kt
+src/main/kotlin/BracketChanger.kt
