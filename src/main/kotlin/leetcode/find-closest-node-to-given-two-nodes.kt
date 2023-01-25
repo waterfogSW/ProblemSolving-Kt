@@ -1,5 +1,3 @@
-package leetcode.other
-
 fun closestMeetingNode(edges: IntArray, node1: Int, node2: Int): Int {
     fun search(start: Int): IntArray {
         val arr = IntArray(edges.size) { Int.MAX_VALUE }
